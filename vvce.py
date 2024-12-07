@@ -1,4 +1,9 @@
-print("VVCE")
-print("hello")
-print("i am from mysore")
-print("World")
+public class sample{
+    public sample(){
+    }
+
+    public static void main(String[] args){
+        System.out.println("Hello,World!");
+        System.out.println("VVCE");
+    }
+}
